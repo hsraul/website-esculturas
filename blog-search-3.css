@@ -1,0 +1,744 @@
+.grunge-vintage-old-paper-backg-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1305px;
+  object-fit: cover;
+}
+.bottom-page-info-child1 {
+  position: absolute;
+  top: 346px;
+  left: calc(50% - 720px);
+  background-color: var(--color-rosybrown-100);
+  width: 1440px;
+  height: 35px;
+}
+.esculturas-em-tamanho3 {
+  margin: 0;
+}
+.esculturas-em-miniatura-container3,
+.esculturas-em-tamanho-container3,
+.esculturas-personalizadas3,
+.possvel-fazer-alteraes4,
+.quais-so-as4,
+.qual-o5 {
+  text-decoration: none;
+  position: absolute;
+  top: 90px;
+  left: calc(50% - 209px);
+  line-height: 30px;
+  color: inherit;
+  display: inline-block;
+  width: 227px;
+  height: 19px;
+  cursor: pointer;
+}
+.esculturas-em-miniatura-container3,
+.esculturas-personalizadas3,
+.possvel-fazer-alteraes4,
+.quais-so-as4,
+.qual-o5 {
+  top: 115px;
+  height: 21px;
+}
+.esculturas-personalizadas3,
+.possvel-fazer-alteraes4,
+.quais-so-as4,
+.qual-o5 {
+  top: 142px;
+  height: 28px;
+}
+.possvel-fazer-alteraes4,
+.quais-so-as4,
+.qual-o5 {
+  top: 64px;
+  left: calc(50% + 18px);
+  width: 260px;
+  height: 21px;
+}
+.possvel-fazer-alteraes4,
+.qual-o5 {
+  top: 91px;
+  width: 197px;
+  height: 19px;
+}
+.possvel-fazer-alteraes4 {
+  top: 116px;
+  width: 302px;
+  height: 20px;
+}
+.esculturas-abstratas3,
+.esculturas-figurativas3 {
+  position: absolute;
+  left: calc(50% - 209px);
+  line-height: 30px;
+  display: inline-block;
+  width: 227px;
+}
+.esculturas-figurativas3 {
+  text-decoration: none;
+  top: 37px;
+  color: inherit;
+  height: 21px;
+  cursor: pointer;
+}
+.esculturas-abstratas3 {
+  top: 64px;
+  height: 23px;
+}
+.esculturas-abstratas3,
+.quais-so-os5,
+.sobre-o-site4,
+.tutoriais3 {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+.quais-so-os5 {
+  position: absolute;
+  top: 37px;
+  left: calc(50% + 18px);
+  line-height: 30px;
+  display: inline-block;
+  width: 240px;
+  height: 21px;
+}
+.sobre-o-site4,
+.tutoriais3 {
+  left: calc(50% + 365px);
+  width: 163px;
+}
+.sobre-o-site4 {
+  position: absolute;
+  top: 37px;
+  line-height: 30px;
+  display: inline-block;
+  height: 23px;
+}
+.tutoriais3 {
+  top: 94px;
+  height: 24px;
+}
+.blog7,
+.histrias-da-arte3,
+.loja7,
+.qa4,
+.tutoriais3 {
+  position: absolute;
+  line-height: 30px;
+  display: inline-block;
+}
+.histrias-da-arte3 {
+  text-decoration: none;
+  top: 66px;
+  left: calc(50% + 365px);
+  color: inherit;
+  width: 163px;
+  height: 22px;
+  cursor: pointer;
+}
+.blog7,
+.loja7,
+.qa4 {
+  top: 0;
+  left: calc(50% - 209px);
+  width: 40px;
+  height: 19px;
+}
+.blog7,
+.qa4 {
+  left: calc(50% + 18px);
+  width: 38px;
+}
+.blog7 {
+  left: calc(50% + 368px);
+  width: 40px;
+  height: 16px;
+}
+.facebook-icon-23,
+.insta-icon-23 {
+  position: absolute;
+  top: 210px;
+  left: 166px;
+  width: 18px;
+  height: 17.1px;
+  object-fit: cover;
+}
+.insta-icon-23 {
+  top: 243px;
+  height: 18px;
+}
+.esculturas-design-pratico3,
+.esculturasdesignpratico3,
+.pinterest-esculturas-design-p3,
+.redes-sociais3 {
+  position: absolute;
+  top: 269px;
+  left: calc(50% - 553px);
+  line-height: 30px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 289px;
+  height: 26px;
+}
+.esculturas-design-pratico3,
+.esculturasdesignpratico3,
+.redes-sociais3 {
+  top: 177px;
+  height: 21px;
+}
+.esculturas-design-pratico3,
+.esculturasdesignpratico3 {
+  top: 236px;
+  left: calc(50% - 524px);
+  width: 260px;
+}
+.esculturasdesignpratico3 {
+  top: 202px;
+  height: 24px;
+}
+.e-mail4,
+.esculturasdesignpraticogmail3 {
+  position: absolute;
+  top: 113px;
+  left: calc(50% - 554px);
+  line-height: 30px;
+  display: inline-block;
+  width: 290px;
+  height: 22px;
+}
+.esculturasdesignpraticogmail3 {
+  top: 141px;
+  height: 24px;
+}
+.contato6,
+.endereo-rua-das3,
+.sp-12345-67893,
+.telefone-11-9999-99993 {
+  position: absolute;
+  top: 83px;
+  left: calc(50% - 553px);
+  line-height: 30px;
+  display: inline-block;
+  width: 289px;
+  height: 24px;
+}
+.contato6,
+.endereo-rua-das3,
+.sp-12345-67893 {
+  top: 27px;
+  left: calc(50% - 554px);
+  width: 290px;
+  height: 22px;
+}
+.contato6,
+.sp-12345-67893 {
+  top: 55px;
+  left: calc(50% - 553px);
+  width: 289px;
+}
+.contato6 {
+  top: 0;
+  left: calc(50% - 554px);
+  width: 61px;
+  height: 25px;
+}
+.bottom-page-info6 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 381px;
+}
+.bottom-info4,
+.bottom-info5 {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 1440px;
+  height: 381px;
+  overflow: hidden;
+}
+.bottom-info4 {
+  top: 880px;
+  height: 425px;
+}
+.card-image-big-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-100);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  width: 345px;
+  height: 396px;
+}
+.em-destaque,
+.por-raul-sousa,
+.sobre-o-site6 {
+  position: absolute;
+  left: 0.2px;
+  display: inline-block;
+}
+.sobre-o-site6 {
+  top: 30px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  width: 322px;
+  height: 22px;
+}
+.em-destaque,
+.por-raul-sousa {
+  top: 0;
+  width: 114px;
+  height: 15px;
+}
+.por-raul-sousa {
+  top: 70px;
+  left: 0;
+  color: var(--color-dimgray-300);
+  width: 137.6px;
+}
+.bem-vindo-ao-nosso,
+.de-outubro-de {
+  position: absolute;
+  top: 93px;
+  left: 0;
+  display: inline-block;
+  width: 330.3px;
+}
+.de-outubro-de {
+  top: 157px;
+  left: 0.7px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-dimgray-300);
+  width: 218px;
+}
+.card-image-big,
+.text {
+  position: absolute;
+  top: 201px;
+  left: 11.8px;
+  width: 330.3px;
+  height: 174px;
+  color: black;
+}
+.card-image-big {
+  top: 0;
+  left: 0;
+  width: 345px;
+  height: 396px;
+}
+.mask-group,
+.test-c-mgr-christory-img-1303-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 353.9px;
+  height: 191px;
+}
+.test-c-mgr-christory-img-1303-icon {
+  border-radius: var(--br-3xs);
+  width: 346px;
+  object-fit: cover;
+}
+.sobre-o-site5 {
+  position: absolute;
+  top: 94px;
+  left: 5px;
+  width: 353.9px;
+  height: 396px;
+}
+.resultados-correspondentes {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  color: var(--color-black);
+  width: 762px;
+  height: 71px;
+}
+.blog-entries,
+.blog-entry1 {
+  position: absolute;
+  top: 95px;
+  left: 159px;
+  width: 762px;
+  height: 490px;
+}
+.blog-entries {
+  top: 43px;
+  left: 0;
+  width: 940px;
+  height: 837px;
+  overflow: hidden;
+}
+.histrias-da-arte4,
+.sobre-o-site7 {
+  text-decoration: none;
+  position: absolute;
+  left: 0;
+  color: inherit;
+  width: 308.8px;
+}
+.sobre-o-site7 {
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.histrias-da-arte4 {
+  top: 41px;
+  cursor: pointer;
+}
+.div4,
+.div5,
+.histrias-da-arte4,
+.tutoriais4 {
+  font-weight: 600;
+  display: inline-block;
+}
+.tutoriais4 {
+  text-decoration: none;
+  position: absolute;
+  top: 78px;
+  left: 0;
+  color: inherit;
+  width: 308.8px;
+  cursor: pointer;
+}
+.div4,
+.div5 {
+  left: 324px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-montserrat);
+}
+.div4 {
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+.div5 {
+  top: 41px;
+  width: 24px;
+}
+.div5,
+.div6,
+.entries1 {
+  position: absolute;
+}
+.div6 {
+  top: 75px;
+  left: 324px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 22px;
+}
+.entries1 {
+  top: 72px;
+  left: 0;
+  width: 348px;
+  height: 103px;
+}
+.title-child {
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #57443b, #bcaf9e 50.72%, #57453b);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  width: 345px;
+  height: 48px;
+}
+.categorias1,
+.title-child,
+.title2 {
+  position: absolute;
+  top: 0;
+}
+.categorias1 {
+  left: 84.3px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 198.7px;
+}
+.title2 {
+  left: 0;
+  width: 345px;
+  height: 48px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray);
+}
+.categorias,
+.section-side-categories {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 348px;
+  height: 175px;
+}
+.categorias {
+  top: 541px;
+  left: 30px;
+}
+.title-section-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(
+    90.16deg,
+    #443128 6.25%,
+    #bfb2a1 52.42%,
+    #443128 95.83%
+  );
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  width: 345px;
+  height: 48px;
+}
+.popular1 {
+  position: absolute;
+  top: 0;
+  left: 100.9px;
+  text-decoration: underline;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 129px;
+}
+.title-section,
+.tullio-lombardo-child {
+  position: absolute;
+  top: 0;
+  left: 0.2px;
+  width: 345px;
+}
+.title-section {
+  height: 48px;
+  font-size: var(--font-size-17xl);
+}
+.tullio-lombardo-child {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-100);
+  height: 96px;
+}
+.de-outubro-de1,
+.tullio-lombardo-e {
+  position: absolute;
+  display: inline-block;
+}
+.tullio-lombardo-e {
+  top: 13px;
+  left: 141.1px;
+  text-transform: capitalize;
+  width: 193px;
+  height: 33px;
+  color: black;
+}
+.de-outubro-de1 {
+  top: 55px;
+  left: 142.1px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-dimgray-300);
+  width: 172px;
+}
+.mask-group-icon10 {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 129.8px;
+  height: 70px;
+  object-fit: cover;
+}
+.tullio-lombardo {
+  position: absolute;
+  top: 300px;
+  left: 0;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  width: 345.2px;
+  height: 96px;
+}
+.histrias-das-esculturas-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-100);
+  width: 345px;
+  height: 96px;
+}
+.de-outubro-de2,
+.histria-das-esculturas {
+  position: absolute;
+  left: 141.9px;
+  display: inline-block;
+}
+.histria-das-esculturas {
+  top: 13px;
+  text-transform: capitalize;
+  width: 200px;
+  height: 15px;
+  color: black;
+}
+.de-outubro-de2 {
+  top: 53px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-dimgray-300);
+  width: 159px;
+}
+.mask-group-icon11 {
+  position: absolute;
+  top: 13px;
+  left: 0.8px;
+  width: 129.8px;
+  height: 70px;
+  object-fit: cover;
+}
+.histrias-das-esculturas {
+  position: absolute;
+  top: 184px;
+  left: 0.2px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  width: 345px;
+  height: 96px;
+}
+.as-fantsticas-grgulas,
+.de-outubro-de3 {
+  position: absolute;
+  left: 141.9px;
+  display: inline-block;
+}
+.as-fantsticas-grgulas {
+  top: 13px;
+  text-transform: capitalize;
+  color: black;
+  width: 192px;
+  height: 15px;
+}
+.de-outubro-de3 {
+  top: 53px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--color-dimgray-300);
+  width: 169px;
+}
+.fantsticas-grgulas {
+  position: absolute;
+  top: 68px;
+  left: 0.2px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  width: 345px;
+  height: 96px;
+}
+.entries,
+.popular,
+.section-side-card {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 345.2px;
+  height: 396px;
+}
+.entries,
+.popular {
+  top: 121px;
+  left: 29.8px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray);
+}
+.entries {
+  top: 43px;
+  left: 940px;
+  width: 500px;
+  height: 837px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+}
+.navbar-child3,
+.navbar-child4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 43px;
+}
+.navbar-child3 {
+  background: linear-gradient(90.02deg, #bfb2a1, #787167);
+}
+.navbar-child4 {
+  background-color: var(--color-rosybrown-100);
+}
+.home2 {
+  position: absolute;
+  left: calc(50% - 640.5px);
+}
+.contato7,
+.home2,
+.loja8 {
+  text-decoration: none;
+  top: 0;
+  color: inherit;
+  cursor: pointer;
+}
+.loja8 {
+  position: absolute;
+  left: calc(50% + 475.5px);
+}
+.contato7 {
+  left: calc(50% + 361.5px);
+}
+.contato7,
+.faq3,
+.navbar10 {
+  position: absolute;
+}
+.faq3 {
+  text-decoration: none;
+  top: 0;
+  left: calc(50% + 592.5px);
+  color: inherit;
+  cursor: pointer;
+}
+.navbar10 {
+  top: 7px;
+  left: calc(50% - 680px);
+  width: 1281px;
+  height: 30px;
+}
+.navbar8,
+.navbar9 {
+  position: absolute;
+  top: 0;
+  width: 1440px;
+  height: 43px;
+}
+.navbar9 {
+  left: calc(50% - 720px);
+}
+.navbar8 {
+  left: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: 18px;
+}
+.blog-search-3 {
+  position: relative;
+  background-color: var(--color-dimgray-200);
+  width: 100%;
+  height: 1305px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray);
+  font-family: var(--font-outfit);
+}

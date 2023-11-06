@@ -1,0 +1,805 @@
+.grunge-vintage-old-paper-backg-icon15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 2007px;
+  object-fit: cover;
+}
+.bottom-page-info-child13 {
+  position: absolute;
+  top: 346px;
+  left: calc(50% - 720px);
+  background-color: var(--color-rosybrown-100);
+  width: 1440px;
+  height: 35px;
+}
+.esculturas-em-miniatura-container15,
+.esculturas-em-tamanho-container15,
+.esculturas-personalizadas15,
+.possvel-fazer-alteraes16,
+.quais-so-as16,
+.qual-o17 {
+  text-decoration: none;
+  position: absolute;
+  top: 90px;
+  left: calc(50% - 209px);
+  line-height: 30px;
+  color: inherit;
+  display: inline-block;
+  width: 227px;
+  height: 19px;
+  cursor: pointer;
+}
+.esculturas-em-miniatura-container15,
+.esculturas-personalizadas15,
+.possvel-fazer-alteraes16,
+.quais-so-as16,
+.qual-o17 {
+  top: 115px;
+  height: 21px;
+}
+.esculturas-personalizadas15,
+.possvel-fazer-alteraes16,
+.quais-so-as16,
+.qual-o17 {
+  top: 142px;
+  height: 28px;
+}
+.possvel-fazer-alteraes16,
+.quais-so-as16,
+.qual-o17 {
+  top: 64px;
+  left: calc(50% + 18px);
+  width: 260px;
+  height: 21px;
+}
+.possvel-fazer-alteraes16,
+.qual-o17 {
+  top: 91px;
+  width: 197px;
+  height: 19px;
+}
+.possvel-fazer-alteraes16 {
+  top: 116px;
+  width: 302px;
+  height: 20px;
+}
+.esculturas-abstratas17,
+.esculturas-figurativas17 {
+  position: absolute;
+  left: calc(50% - 209px);
+  line-height: 30px;
+  display: inline-block;
+  width: 227px;
+}
+.esculturas-figurativas17 {
+  text-decoration: none;
+  top: 37px;
+  color: inherit;
+  height: 21px;
+  cursor: pointer;
+}
+.esculturas-abstratas17 {
+  top: 64px;
+  height: 23px;
+}
+.esculturas-abstratas17,
+.quais-so-os17,
+.sobre-o-site30,
+.tutoriais26 {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+.quais-so-os17 {
+  position: absolute;
+  top: 37px;
+  left: calc(50% + 18px);
+  line-height: 30px;
+  display: inline-block;
+  width: 240px;
+  height: 21px;
+}
+.sobre-o-site30,
+.tutoriais26 {
+  left: calc(50% + 365px);
+  width: 163px;
+}
+.sobre-o-site30 {
+  position: absolute;
+  top: 37px;
+  line-height: 30px;
+  display: inline-block;
+  height: 23px;
+}
+.tutoriais26 {
+  top: 94px;
+  height: 24px;
+}
+.blog36,
+.histrias-da-arte26,
+.loja31,
+.qa16,
+.tutoriais26 {
+  position: absolute;
+  line-height: 30px;
+  display: inline-block;
+}
+.histrias-da-arte26 {
+  text-decoration: none;
+  top: 66px;
+  left: calc(50% + 365px);
+  color: inherit;
+  width: 163px;
+  height: 22px;
+  cursor: pointer;
+}
+.blog36,
+.loja31,
+.qa16 {
+  top: 0;
+  left: calc(50% - 209px);
+  width: 40px;
+  height: 19px;
+}
+.blog36,
+.qa16 {
+  left: calc(50% + 18px);
+  width: 38px;
+}
+.blog36 {
+  left: calc(50% + 368px);
+  width: 40px;
+  height: 16px;
+}
+.facebook-icon-215,
+.insta-icon-215 {
+  position: absolute;
+  top: 210px;
+  left: 166px;
+  width: 18px;
+  height: 17.1px;
+  object-fit: cover;
+}
+.insta-icon-215 {
+  top: 243px;
+  height: 18px;
+}
+.esculturas-design-pratico15,
+.esculturasdesignpratico15,
+.pinterest-esculturas-design-p15,
+.redes-sociais15 {
+  position: absolute;
+  top: 269px;
+  left: calc(50% - 553px);
+  line-height: 30px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 289px;
+  height: 26px;
+}
+.esculturas-design-pratico15,
+.esculturasdesignpratico15,
+.redes-sociais15 {
+  top: 177px;
+  height: 21px;
+}
+.esculturas-design-pratico15,
+.esculturasdesignpratico15 {
+  top: 236px;
+  left: calc(50% - 524px);
+  width: 260px;
+}
+.esculturasdesignpratico15 {
+  top: 202px;
+  height: 24px;
+}
+.e-mail16,
+.esculturasdesignpraticogmail15 {
+  position: absolute;
+  top: 113px;
+  left: calc(50% - 554px);
+  line-height: 30px;
+  display: inline-block;
+  width: 290px;
+  height: 22px;
+}
+.esculturasdesignpraticogmail15 {
+  top: 141px;
+  height: 24px;
+}
+.contato30,
+.endereo-rua-das15,
+.sp-12345-678915,
+.telefone-11-9999-999915 {
+  position: absolute;
+  top: 83px;
+  left: calc(50% - 553px);
+  line-height: 30px;
+  display: inline-block;
+  width: 289px;
+  height: 24px;
+}
+.contato30,
+.endereo-rua-das15,
+.sp-12345-678915 {
+  top: 27px;
+  left: calc(50% - 554px);
+  width: 290px;
+  height: 22px;
+}
+.contato30,
+.sp-12345-678915 {
+  top: 55px;
+  left: calc(50% - 553px);
+  width: 289px;
+}
+.contato30 {
+  top: 0;
+  left: calc(50% - 554px);
+  width: 61px;
+  height: 25px;
+}
+.bottom-page-info30 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 381px;
+}
+.bottom-info28,
+.bottom-info29 {
+  position: absolute;
+  top: 48px;
+  left: -3px;
+  width: 1440px;
+  height: 381px;
+  overflow: hidden;
+}
+.bottom-info28 {
+  top: 1578px;
+  left: 0;
+  height: 429px;
+}
+.esculturas-personalizadas16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 146px;
+  height: 44px;
+}
+.quer-uma-escultura {
+  margin: 0;
+}
+.personalizadas {
+  text-decoration: underline;
+}
+.quer-uma-escultura-container {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  font-size: var(--font-size-base);
+  text-wrap: absolute;
+  display: inline-block;
+  width: 261px;
+}
+.img-20230916-wa0058-1-icon {
+  position: absolute;
+  top: 0;
+  left: 301px;
+  width: 131px;
+  height: 131px;
+  object-fit: cover;
+}
+.seo-entry {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 432px;
+  height: 155px;
+}
+.frame-child {
+  position: relative;
+  border-radius: var(--br-51xl);
+  background-color: var(--color-darkgray-100);
+  width: 75px;
+  height: 25px;
+}
+.comprar26,
+.frame-item {
+  position: relative;
+  height: 25px;
+  margin-top: -36px;
+}
+.frame-item {
+  border-radius: var(--br-51xl);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 75px;
+}
+.comprar26 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 76px;
+  flex-shrink: 0;
+}
+.rectangle-parent5 {
+  text-decoration: none;
+  position: absolute;
+  top: 142px;
+  left: 329px;
+  width: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: inherit;
+}
+.esculturas-em-miniatura18,
+.personalizadas-entry {
+  position: absolute;
+  top: 587px;
+  left: 504px;
+  width: 432px;
+  height: 167px;
+  font-size: var(--font-size-xl);
+}
+.esculturas-em-miniatura18 {
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 230px;
+  height: 26px;
+}
+.representaes-em-miniatura {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  display: inline-block;
+  width: 213px;
+}
+.img-20230916-wa0057-1-icon {
+  position: absolute;
+  top: 3px;
+  left: 251px;
+  width: 153px;
+  height: 153px;
+  object-fit: cover;
+}
+.rectangle-parent6 {
+  text-decoration: none;
+  position: absolute;
+  top: 166px;
+  left: 290px;
+  width: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+}
+.miniatura-entry {
+  position: absolute;
+  top: 308px;
+  left: 794px;
+  width: 404px;
+  height: 191px;
+}
+.a-parte-mais,
+.esculturas-em-tamanho17 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.esculturas-em-tamanho17 {
+  top: 0;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  width: 144px;
+  height: 50px;
+}
+.a-parte-mais {
+  top: 60px;
+  width: 182px;
+}
+.gargoyles-2-1-icon {
+  position: absolute;
+  top: 0;
+  left: 230px;
+  width: 230px;
+  height: 153px;
+  object-fit: cover;
+}
+.rectangle-parent7 {
+  text-decoration: none;
+  position: absolute;
+  top: 163px;
+  left: 307px;
+  width: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+}
+.tamanho-real-entry {
+  position: absolute;
+  top: 311px;
+  left: 240px;
+  width: 460px;
+  height: 200px;
+}
+.a-mais-pura,
+.esculturas-abstratas18 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.esculturas-abstratas18 {
+  top: 0;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  width: 101px;
+  height: 45px;
+}
+.a-mais-pura {
+  top: 55px;
+  width: 211px;
+  height: 130px;
+}
+.abstract-gothic-style-sculptur-icon1 {
+  position: absolute;
+  top: 0;
+  left: 238px;
+  width: 168px;
+  height: 152px;
+  object-fit: cover;
+}
+.rectangle-parent8 {
+  text-decoration: none;
+  position: absolute;
+  top: 160px;
+  left: 284px;
+  width: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+}
+.abstrata-entry {
+  position: absolute;
+  top: 58px;
+  left: 794px;
+  width: 406px;
+  height: 185px;
+}
+.esculturas-figurativas18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  display: inline-block;
+  width: 116px;
+  height: 52px;
+}
+.representaes-artsticas-de-container {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  display: inline-block;
+  width: 209px;
+}
+.la-madonna-della-piet-our-lad1 {
+  position: absolute;
+  top: 0;
+  left: 239px;
+  width: 122px;
+  height: 146px;
+  object-fit: cover;
+}
+.comprar26 {
+  top: 19px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25px;
+}
+.frame-item {
+  top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25px;
+}
+.rectangle-parent9 {
+  text-decoration: none;
+  position: absolute;
+  top: 158px;
+  left: 262px;
+  width: 76px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+}
+.entries22,
+.figurativa-entry {
+  position: absolute;
+  top: 58px;
+  left: 240px;
+  width: 361px;
+  height: 183px;
+}
+.entries22 {
+  top: 722px;
+  left: 0;
+  width: 1440px;
+  height: 856px;
+  overflow: hidden;
+}
+.loja32 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 56px);
+  text-decoration: underline;
+  font-family: var(--font-outfit);
+  font-size: 40px;
+  display: inline-block;
+  width: 99px;
+  height: 58px;
+}
+.gothic-gate-2-removebg-preview-icon1 {
+  position: absolute;
+  top: 32px;
+  left: calc(50% - 210.5px);
+  width: 416px;
+  height: 267px;
+  object-fit: cover;
+}
+.img-20230916-wa0023-removebg-p-icon4 {
+  position: absolute;
+  mix-blend-mode: multiply;
+  top: 0;
+  left: calc(50% + 149.5px);
+  width: 118px;
+  height: 129px;
+  object-fit: cover;
+}
+.img-20230916-wa0023-removebg-p-icon5 {
+  position: absolute;
+  mix-blend-mode: multiply;
+  top: 0;
+  left: 0;
+  width: 113px;
+  height: 129px;
+  object-fit: cover;
+}
+.loja-icon1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 268px);
+  width: 535px;
+  height: 299px;
+}
+.hero6,
+.loja-icon2,
+.variadas-sees-de {
+  position: absolute;
+  left: calc(50% - 365px);
+  width: 730px;
+}
+.variadas-sees-de {
+  top: 359px;
+  font-size: 26px;
+  display: inline-block;
+  height: 76px;
+}
+.hero6,
+.loja-icon2 {
+  top: 56px;
+  height: 435px;
+}
+.loja-icon2 {
+  left: calc(50% - 268px);
+  mix-blend-mode: multiply;
+  width: 535px;
+  height: 299px;
+}
+.barbed-wire-1-icon2,
+.barbed-wire-2-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 149px;
+  height: 50px;
+  object-fit: cover;
+}
+.barbed-wire-2-icon3 {
+  left: 121px;
+}
+.barbed-wire-3-icon3,
+.barbed-wire-4-icon3,
+.barbed-wire-5-icon2,
+.barbed-wire-6-icon6 {
+  position: absolute;
+  top: 0;
+  left: 242px;
+  width: 149px;
+  height: 50px;
+  object-fit: cover;
+}
+.barbed-wire-4-icon3,
+.barbed-wire-5-icon2,
+.barbed-wire-6-icon6 {
+  left: 363px;
+}
+.barbed-wire-5-icon2,
+.barbed-wire-6-icon6 {
+  left: 484px;
+}
+.barbed-wire-6-icon6 {
+  left: 600px;
+}
+.barbed-wire-10-icon2,
+.barbed-wire-7-icon6,
+.barbed-wire-8-icon2,
+.barbed-wire-9-icon2 {
+  position: absolute;
+  top: 0;
+  left: 716px;
+  width: 149px;
+  height: 50px;
+  object-fit: cover;
+}
+.barbed-wire-10-icon2,
+.barbed-wire-8-icon2,
+.barbed-wire-9-icon2 {
+  left: 832px;
+}
+.barbed-wire-10-icon2,
+.barbed-wire-9-icon2 {
+  left: 948px;
+}
+.barbed-wire-10-icon2 {
+  left: 1064px;
+}
+.barbed-wire6,
+.decorao6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1213px;
+  height: 50px;
+}
+.decorao6 {
+  top: 547px;
+  left: 113px;
+}
+.navbar-child26,
+.title12 {
+  position: absolute;
+  width: 1440px;
+}
+.title12 {
+  top: 43px;
+  left: 0;
+  height: 679px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+}
+.navbar-child26 {
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: #a08a72;
+  height: 43px;
+}
+.blog37,
+.contato31,
+.faq15,
+.home14 {
+  text-decoration: none;
+  position: absolute;
+  top: 2;
+  font-size: 14px;
+  left: calc(50% - 640.5px);
+  color: inherit;
+  cursor: pointer;
+}
+.blog37,
+.contato31,
+.faq15 {
+  left: calc(50% + 475.5px);
+}
+.contato31,
+.faq15 {
+  left: calc(50% + 364.5px);
+}
+.faq15 {
+  left: calc(50% + 592.5px);
+}
+.navbar45,
+.navbar46 {
+  position: absolute;
+  top: 12px;
+  left: calc(50% - 680px);
+  width: 1281px;
+  height: 30px;
+}
+.navbar45 {
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 43px;
+}
+.esculturas-design-prtico2 {
+  position: absolute;
+  top: 7px;
+  left: calc(50% - 91.5px);
+  text-decoration: underline;
+  display: inline-block;
+  width: 183px;
+  height: 19px;
+}
+.hero-icon1,
+.hero7,
+.icon7 {
+  position: absolute;
+  top: 0;
+  width: 255px;
+  height: 34px;
+}
+.hero-icon1 {
+  left: 0;
+  object-fit: cover;
+}
+.hero7,
+.icon7 {
+  left: calc(50% - 127.5px);
+}
+.icon7 {
+  top: 4px;
+  left: calc(50% - 139px);
+  font-size: var(--font-size-base);
+}
+.navbar44 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 43px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.pgina-de-produtos {
+  position: relative;
+  background-color: var(--color-dimgray-200);
+  width: 100%;
+  height: 2007px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray);
+  font-family: var(--font-outfit);
+}

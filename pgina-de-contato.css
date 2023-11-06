@@ -1,0 +1,565 @@
+.grunge-vintage-old-paper-backg-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 873px;
+  object-fit: cover;
+}
+.bottom-page-info-item {
+  position: absolute;
+  top: 346px;
+  left: 0;;
+  background-color: var(--color-rosybrown-100);
+  width: 1440px;
+  height: 35px;
+}
+.esculturas-em-tamanho1 {
+  margin: 0;
+}
+.esculturas-em-miniatura-container1,
+.esculturas-em-tamanho-container1,
+.esculturas-personalizadas1,
+.possvel-fazer-alteraes1,
+.quais-so-as1,
+.qual-o2 {
+  text-decoration: none;
+  position: absolute;
+  top: 90px;
+  left: calc(50% - 209px);
+  line-height: 30px;
+  color: inherit;
+  display: inline-block;
+  width: 227px;
+  height: 19px;
+  cursor: pointer;
+}
+.esculturas-em-miniatura-container1,
+.esculturas-personalizadas1,
+.possvel-fazer-alteraes1,
+.quais-so-as1,
+.qual-o2 {
+  top: 115px;
+  height: 21px;
+}
+.esculturas-personalizadas1,
+.possvel-fazer-alteraes1,
+.quais-so-as1,
+.qual-o2 {
+  top: 142px;
+  height: 28px;
+}
+.possvel-fazer-alteraes1,
+.quais-so-as1,
+.qual-o2 {
+  top: 64px;
+  left: calc(50% + 18px);
+  width: 260px;
+  height: 21px;
+}
+.possvel-fazer-alteraes1,
+.qual-o2 {
+  top: 91px;
+  width: 197px;
+  height: 19px;
+}
+.possvel-fazer-alteraes1 {
+  top: 116px;
+  width: 302px;
+  height: 20px;
+}
+.esculturas-abstratas1,
+.esculturas-figurativas1 {
+  position: absolute;
+  left: calc(50% - 209px);
+  line-height: 30px;
+  display: inline-block;
+  width: 227px;
+}
+.esculturas-figurativas1 {
+  text-decoration: none;
+  top: 37px;
+  color: inherit;
+  height: 21px;
+  cursor: pointer;
+}
+.esculturas-abstratas1 {
+  top: 64px;
+  height: 23px;
+}
+.esculturas-abstratas1,
+.quais-so-os2,
+.sobre-o-site2,
+.tutoriais1 {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+.quais-so-os2 {
+  position: absolute;
+  top: 37px;
+  left: calc(50% + 18px);
+  line-height: 30px;
+  display: inline-block;
+  width: 240px;
+  height: 21px;
+}
+.sobre-o-site2,
+.tutoriais1 {
+  left: calc(50% + 365px);
+  width: 163px;
+}
+.sobre-o-site2 {
+  position: absolute;
+  top: 37px;
+  line-height: 30px;
+  display: inline-block;
+  height: 23px;
+}
+.tutoriais1 {
+  top: 94px;
+  height: 24px;
+}
+.blog3,
+.histrias-da-arte1,
+.loja3,
+.qa1,
+.tutoriais1 {
+  position: absolute;
+  line-height: 30px;
+  display: inline-block;
+}
+.histrias-da-arte1 {
+  text-decoration: none;
+  top: 66px;
+  left: calc(50% + 365px);
+  color: inherit;
+  width: 163px;
+  height: 22px;
+  cursor: pointer;
+}
+.blog3,
+.loja3,
+.qa1 {
+  top: 0;
+  left: calc(50% - 209px);
+  width: 40px;
+  height: 19px;
+}
+.blog3,
+.qa1 {
+  left: calc(50% + 18px);
+  width: 38px;
+}
+.blog3 {
+  left: calc(50% + 368px);
+  width: 40px;
+  height: 16px;
+}
+.facebook-icon-21,
+.insta-icon-21 {
+  position: absolute;
+  top: 210px;
+  left: 166px;
+  width: 18px;
+  height: 17.1px;
+  object-fit: cover;
+}
+.insta-icon-21 {
+  top: 243px;
+  height: 18px;
+}
+.esculturas-design-pratico1,
+.esculturasdesignpratico1,
+.pinterest-esculturas-design-p1,
+.redes-sociais1 {
+  position: absolute;
+  top: 269px;
+  left: calc(50% - 553px);
+  line-height: 30px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 289px;
+  height: 26px;
+}
+.esculturas-design-pratico1,
+.esculturasdesignpratico1,
+.redes-sociais1 {
+  top: 177px;
+  height: 21px;
+}
+.esculturas-design-pratico1,
+.esculturasdesignpratico1 {
+  top: 236px;
+  left: calc(50% - 524px);
+  width: 260px;
+}
+.esculturasdesignpratico1 {
+  top: 202px;
+  height: 24px;
+}
+.e-mail1,
+.esculturasdesignpraticogmail1 {
+  position: absolute;
+  top: 113px;
+  left: calc(50% - 554px);
+  line-height: 30px;
+  display: inline-block;
+  width: 290px;
+  height: 22px;
+}
+.esculturasdesignpraticogmail1 {
+  top: 141px;
+  height: 24px;
+}
+.contato3,
+.endereo-rua-das1,
+.sp-12345-67891,
+.telefone-11-9999-99991 {
+  position: absolute;
+  top: 83px;
+  left: calc(50% - 553px);
+  line-height: 30px;
+  display: inline-block;
+  width: 289px;
+  height: 24px;
+}
+.contato3,
+.endereo-rua-das1,
+.sp-12345-67891 {
+  top: 27px;
+  left: calc(50% - 554px);
+  width: 290px;
+  height: 22px;
+}
+.contato3,
+.sp-12345-67891 {
+  top: 55px;
+  left: calc(50% - 553px);
+  width: 289px;
+}
+.contato3 {
+  top: 0;
+  left: calc(50% - 554px);
+  width: 61px;
+  height: 25px;
+}
+.bottom-page-info2,
+.bottom-page-info3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 381px;
+  font-family: var(--font-outfit);
+}
+.bottom-page-info2 {
+  top: 9px;
+}
+.bottom-info1 {
+  position: absolute;
+  top: 483px;
+  left: 0;
+  width: 1440px;
+  height: 390px;
+  overflow: hidden;
+}
+.ad-child {
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  width: 155px;
+  height: 14.1px;
+  z-index: 0;
+}
+.img-20231018-wa0002-1-icon {
+  position: relative;
+  width: 155px;
+  height: 321.4px;
+  object-fit: cover;
+  z-index: 1;
+}
+.x {
+  margin: 0 !important;
+  top: 0;
+  left: 136.3px;
+  align-items: center;
+  justify-content: center;
+  width: 18.7px;
+  height: 14.1px;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.ad,
+.publicidade,
+.x {
+  position: absolute;
+  display: flex;
+}
+.publicidade {
+  margin: 0 !important;
+  top: 0;
+  left: 0.4px;
+  color: var(--color-gainsboro-100);
+  align-items: center;
+  justify-content: center;
+  width: 154.6px;
+  height: 13.7px;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.ad {
+  text-decoration: none;
+  top: 72px;
+  left: 1162px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  text-align: center;
+  color: inherit;
+}
+.scroll-texture-1 {
+  position: absolute;
+  top: 57px;
+  left: 283px;
+  width: 259px;
+  height: 248px;
+  object-fit: cover;
+}
+.scroll-texture-2,
+.scroll-texture-3,
+.scroll-texture-4 {
+  position: absolute;
+  top: 57px;
+  left: 15px;
+  width: 228px;
+  height: 64px;
+  object-fit: cover;
+}
+.scroll-texture-3,
+.scroll-texture-4 {
+  top: 147px;
+  left: 13px;
+}
+.scroll-texture-4 {
+  top: 233px;
+  left: 14px;
+  height: 72px;
+}
+.caixa-de-texto-child {
+  position: absolute;
+  top: 57px;
+  left: 283px;
+  border: 2px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 259px;
+  height: 248px;
+}
+.e-mail2,
+.mensagem,
+.nome,
+.telefone {
+  position: absolute;
+  display: inline-block;
+}
+.nome {
+  top: 76px;
+  left: 25px;
+  text-transform: capitalize;
+  width: 236px;
+  height: 35px;
+}
+.e-mail2,
+.mensagem,
+.telefone {
+  width: 234px;
+}
+.mensagem {
+  top: 71px;
+  left: 296px;
+  font-size: var(--font-size-base);
+  text-transform: capitalize;
+  height: 99px;
+}
+.e-mail2,
+.telefone {
+  left: 27px;
+}
+.telefone {
+  top: 157px;
+  text-transform: capitalize;
+  height: 39px;
+}
+.e-mail2 {
+  top: 247px;
+  height: 52px;
+}
+.caixa-de-texto-child1,
+.caixa-de-texto-inner,
+.caixa-de-texto-item {
+  position: absolute;
+  top: 57px;
+  left: 15px;
+  border: 2px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 228px;
+  height: 64px;
+}
+.caixa-de-texto-child1,
+.caixa-de-texto-inner {
+  top: 147px;
+  left: 14px;
+  width: 229px;
+  height: 66px;
+}
+.caixa-de-texto-child1 {
+  top: 233px;
+  height: 72px;
+}
+.icon5,
+.icon6 {
+  position: absolute;
+  top: 0;
+  left: 198px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.icon6 {
+  left: 0;
+}
+.caixa-de-texto {
+  position: absolute;
+  top: 97px;
+  left: 572px;
+  width: 542px;
+  height: 305px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.entre-em-contato1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 346px;
+  height: 24px;
+}
+.esculturas-da-catedral-de-char {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  width: 337px;
+  height: 243px;
+  object-fit: cover;
+}
+.preencha-seus-dados {
+  position: absolute;
+  top: 41px;
+  left: 1px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 419px;
+  height: 48px;
+}
+.hero2,
+.hero3 {
+  position: absolute;
+  top: 45px;
+  left: 165px;
+  width: 420px;
+  height: 357px;
+  font-family: var(--font-outfit);
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray);
+}
+.hero2 {
+  top: 43px;
+  left: 0;
+  width: 1440px;
+  height: 440px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  color: var(--color-gainsboro-300);
+}
+.navbar-inner,
+.navbar-item {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 43px;
+}
+.navbar-item {
+  background: linear-gradient(90.02deg, #bfb2a1, #787167);
+}
+.navbar-inner {
+  background-color: var(--color-rosybrown-100);
+}
+.home {
+  position: absolute;
+  left: calc(50% - 640.5px);
+}
+.faq2,
+.home,
+.loja4 {
+  text-decoration: none;
+  top: 0;
+  color: inherit;
+  cursor: pointer;
+}
+.loja4 {
+  position: absolute;
+  left: calc(50% + 475.5px);
+}
+.faq2 {
+  left: calc(50% + 381.5px);
+}
+.blog4,
+.faq2,
+.navbar4 {
+  position: absolute;
+}
+.blog4 {
+  text-decoration: none;
+  top: 0;
+  left: calc(50% + 592.5px);
+  color: inherit;
+  cursor: pointer;
+}
+.navbar4 {
+  top: 7px;
+  left: calc(50% - 680px);
+  width: 1281px;
+  height: 30px;
+}
+.navbar2,
+.navbar3 {
+  position: absolute;
+  top: 0;
+  width: 1440px;
+  height: 43px;
+}
+.navbar3 {
+  left: calc(50% - 720px);
+}
+.navbar2 {
+  left: 0;
+  overflow: hidden;
+  text-align: center;
+  font-family: var(--font-outfit);
+  font-size: 18px;
+}
+.pgina-de-contato {
+  text-decoration: none;
+  position: relative;
+  background-color: var(--color-dimgray-200);
+  width: 100%;
+  height: 873px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray);
+  font-family: var(--font-outfit);
+}
